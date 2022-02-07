@@ -1,5 +1,4 @@
 .gray-box {
-  background: gray;
-  width: 64px;
-  height: 64px;
+  background: skyblue;
+  padding: 1rem;
 }
